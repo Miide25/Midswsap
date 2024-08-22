@@ -16,7 +16,7 @@ img{
 
 }
 img {
-    animation: moveAround 10s linear infinite;
+    animation: moveAround 1s linear infinite;
   }
   
   @keyframes moveAround {
